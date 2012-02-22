@@ -1,4 +1,5 @@
-== Welcome to Rails
+This is my Assignment#3
+I have resubmitted it as i had accidentally deleted it while building my fourth assignment.
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
